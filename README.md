@@ -1,5 +1,7 @@
 # SpotyApp
 
+[![Captura-de-Pantalla-2022-05-21-a-la-s-19-46-31.png](https://i.postimg.cc/d0ySRRvD/Captura-de-Pantalla-2022-05-21-a-la-s-19-46-31.png)](https://postimg.cc/JyRqMksW)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
