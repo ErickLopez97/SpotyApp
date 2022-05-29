@@ -1,0 +1,7 @@
+<app-loading *ngIf="loading">
+    <div class="alert alert-danger animated fadein">
+        <h3>Error</h3>
+        <p>{{ mensajeError }}</p>
+    </div>
+</app-loading>
+<app-tarjetas [items]="NuevasCanciones"></app-tarjetas>
